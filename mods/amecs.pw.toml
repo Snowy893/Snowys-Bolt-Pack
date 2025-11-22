@@ -1,0 +1,13 @@
+name = "Amecs (Fabric)"
+filename = "amecs-1.4.0+mc1.20.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "280438262f0563e89f5d338f9aea118bb2fac60f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6995329
+project-id = 324564

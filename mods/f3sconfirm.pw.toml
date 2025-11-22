@@ -1,0 +1,13 @@
+name = "F3+S Confirm"
+filename = "f3s-confirm-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NSj4jq9Y/versions/NL6hYYoZ/f3s-confirm-1.0.2.jar"
+hash-format = "sha512"
+hash = "3291acc961dc5527ac7135f7be268c25c7faf8331aab1d2ba1e6ab233f97535cd4ccb4ebef0f2eba246278ef6b6252a87bf0a10e6622fd752fba6c7a107a7d08"
+
+[update]
+[update.modrinth]
+mod-id = "NSj4jq9Y"
+version = "NL6hYYoZ"

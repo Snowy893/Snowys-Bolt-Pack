@@ -1,0 +1,12 @@
+{
+  "modEnabled": true,
+  "playerIndicator": false,
+  "mobIndicator": false,
+  "hitMarker": true,
+  "hitMarkerTime": 15,
+  "elytraIndicator": false,
+  "elytraSize": 1.0,
+  "environmentBlend": true,
+  "showInThirdPerson": false,
+  "hitMarkerType": "DEFAULT"
+}

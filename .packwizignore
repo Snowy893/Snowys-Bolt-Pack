@@ -1,0 +1,6 @@
+packwiz
+README.md
+*.exe
+*.bat
+*.jar
+*.url
