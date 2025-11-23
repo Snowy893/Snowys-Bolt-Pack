@@ -1,12 +1,12 @@
 name = "Snowy's Bolt Pack"
 author = "Snowy893"
-version = "v1.1.1+1.20.1"
+version = "v1.1.2+1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fae2af8af990a760be296f1d3de7b9800509d2e5590598f420a0ba6a73d3b1ff"
+hash = "94bcb2994895fae4647c8f08b4a3c56776afb35e69c4bb66d72bc5eed6d23607"
 
 [versions]
 fabric = "0.18.1"

@@ -3,6 +3,5 @@
   "inventory_scissor": false,
   "action_wheel_button": "key.keyboard.n",
   "popup_button": "key.keyboard.unknown",
-  "default_permission_level": 4,
-  "main_dir": "C:/Figura"
+  "default_permission_level": 4
 }
