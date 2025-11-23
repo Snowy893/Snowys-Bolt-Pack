@@ -14,11 +14,11 @@ hash = "edbe4c405e6f4d1afc642ac979b3dc4453abfc6834506f7be9627458670e23d7"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "6e0058ca28984545521f54d8cbd62d35f9fa685b1e891de324c4d106423926c1"
+hash = "6aae2c1859dbdd4afb1659bbbb2e55292bb4a3eee757d0ab2ac16fa620b3dac1"
 
 [[files]]
 file = "config/yosbr/config/early-loading-bar.json"
-hash = "d7e265f4c2329560b9d89c46e050d27b5582052f6dbf75872dae1f9a3130117e"
+hash = "79a1697a0477271b3c5457dcfbdd959a39d81d9ea0bf1a7340ab8f7ca2e4579a"
 
 [[files]]
 file = "config/yosbr/config/emotecraft.json"
