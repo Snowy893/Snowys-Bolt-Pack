@@ -26,7 +26,7 @@ hash = "503e9e4c16523f50e40e35784e92e2aab2a026d0422a63dd2739b93ef7f3716c"
 
 [[files]]
 file = "config/yosbr/config/figura.json"
-hash = "96d93b202c2f6875b93ca6aaf73481e2c6ccd2b5fda29a31f446ca3b6ff238f9"
+hash = "1d58fa7b079b21e12f81b87f6aba9cf00dbef29fedf6b64e6aac8db4f23f7775"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
