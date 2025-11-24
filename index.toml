@@ -14,11 +14,11 @@ hash = "edbe4c405e6f4d1afc642ac979b3dc4453abfc6834506f7be9627458670e23d7"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "8232c79bf7d23bcd1e158b919b865c90fa80a93f5e68282a90c063d6cd73ce93"
+hash = "4a3146990e386be1e3b5d93e2d5a587c8c9d220c606ceaa5933d97fe404bb03b"
 
 [[files]]
 file = "config/yosbr/config/early-loading-bar.json"
-hash = "73519c47e84bb45ced93fe669c3dcff4d776103d4b0d5c6355d0315d532ae556"
+hash = "e31b452635cc82bc1a5f9dc14e06a0496a5d518db66d296838e23eca3cc87de0"
 
 [[files]]
 file = "config/yosbr/config/emotecraft.json"
@@ -72,11 +72,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "06d9fc289964f42dfad761ff34dc7c2f09bb7dde3d8fc54954ad01f15c8714ed"
 metafile = true
 
 [[files]]
