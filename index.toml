@@ -14,11 +14,11 @@ hash = "edbe4c405e6f4d1afc642ac979b3dc4453abfc6834506f7be9627458670e23d7"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "6aae2c1859dbdd4afb1659bbbb2e55292bb4a3eee757d0ab2ac16fa620b3dac1"
+hash = "8232c79bf7d23bcd1e158b919b865c90fa80a93f5e68282a90c063d6cd73ce93"
 
 [[files]]
 file = "config/yosbr/config/early-loading-bar.json"
-hash = "79a1697a0477271b3c5457dcfbdd959a39d81d9ea0bf1a7340ab8f7ca2e4579a"
+hash = "73519c47e84bb45ced93fe669c3dcff4d776103d4b0d5c6355d0315d532ae556"
 
 [[files]]
 file = "config/yosbr/config/emotecraft.json"
@@ -58,7 +58,7 @@ hash = "839f3e7347c514b0fb4b02fb86fd263943dea9d7a1e60e70fdb3011abf0a944a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fc20d9b1657156c6f8b9ee8fef49568e04033d8d85ea66385c38f53092f113c9"
+hash = "6a7314c3a9edd00394c5f6609307c9a9fc14285b33d3589c8a84ffc73a57daf7"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -97,11 +97,6 @@ metafile = true
 [[files]]
 file = "mods/better-suggestions.pw.toml"
 hash = "21b767cbde76f273b38669fce5e0dab3c790e8811591c05057c84e064aa502ea"
-metafile = true
-
-[[files]]
-file = "mods/chatanimation.pw.toml"
-hash = "ba0b23cf88c96c480618d0de40b5aa98e070d26a023aad945298b01f8451d0ba"
 metafile = true
 
 [[files]]
@@ -240,11 +235,6 @@ hash = "fe8c8940f8496c28c480286e1214f61113aa3f79e065032d136048b9a2a8cda4"
 metafile = true
 
 [[files]]
-file = "mods/i-see-my-armored-hand.pw.toml"
-hash = "1f49b7a70c72b4d40b543a00be287e03dfa035d7d7e86f550c76db219760ca74"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
 metafile = true
@@ -281,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
+hash = "c287c48033da3b704cc6d991948307061420f74034830b237dd5958ef578a9af"
 metafile = true
 
 [[files]]
@@ -421,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Bolt Resourcepack.zip"
-hash = "0036735c57f7734d13042a1eedfcb1ece212d23cc7eda566b9c231ed40266693"
+hash = "8cd332c0f2cf01969ecb01ea83bfde90cb479d6c9d688bc7de6e9ba0e6cced6c"
 
 [[files]]
 file = "resourcepacks/sleek-ui.pw.toml"
