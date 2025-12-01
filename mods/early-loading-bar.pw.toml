@@ -1,13 +1,13 @@
 name = "Early Loading Bar"
 filename = "EarlyLoadingBar-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a9194cbc06c572857f337b1e9030c530655f48a5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/B5CKa9gc/versions/bV3mCwuB/EarlyLoadingBar-1.0.jar"
+hash-format = "sha512"
+hash = "8478464184e667ae90ee7a020a01e5a951d2ee36aeb414877b4e42270873baa2b5d98abab9371d0381ce1add44415df7cf48e41f77d6add8c32aff125d2ba03c"
 
 [update]
-[update.curseforge]
-file-id = 5676087
-project-id = 1093364
+[update.modrinth]
+mod-id = "B5CKa9gc"
+version = "bV3mCwuB"

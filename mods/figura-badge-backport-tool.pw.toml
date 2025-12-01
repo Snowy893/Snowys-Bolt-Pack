@@ -1,0 +1,13 @@
+name = "Figura Badge Backport Tool"
+filename = "figurabadgetool-fabric-1.1.0+0.1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dSGPNCUs/versions/7YJwOCrC/figurabadgetool-fabric-1.1.0%2B0.1.5.jar"
+hash-format = "sha512"
+hash = "580b0f7f36466c50d0485ce26316a6fd88e7def7a9f981a01d19e4e4da991592aeb995e62098d0010310621d86e36509b896c7fd620535d46288aaec6502a466"
+
+[update]
+[update.modrinth]
+mod-id = "dSGPNCUs"
+version = "7YJwOCrC"

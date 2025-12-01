@@ -1,13 +1,13 @@
 name = "Better Highlighting"
 filename = "better-highlighting-0.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "da96a5b580929d3edc669f7396b56948c113a1f9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rjsZCeTS/versions/pj2WRzQL/better-highlighting-0.2.1.jar"
+hash-format = "sha512"
+hash = "51cc2517005e79206eb73feba26954fa818f620e81067ae3ddf909a19308a83f15fdb8c5047ed9fd1cf58869c25ce8c61e0acdcebacef2e5a76b09cd9bcd9d4a"
 
 [update]
-[update.curseforge]
-file-id = 7149365
-project-id = 1032169
+[update.modrinth]
+mod-id = "rjsZCeTS"
+version = "pj2WRzQL"
