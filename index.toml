@@ -42,7 +42,7 @@ hash = "ed7dfd2c0db1072caab00c05ed29b4e1d8075d2ce686eaa022a283c397940cbc"
 
 [[files]]
 file = "config/yosbr/config/replaymod.json"
-hash = "07dbafbbac4ebb2bd0a4de319ea2416f9d443f68229a1b45e595abbf902a943b"
+hash = "ce0a0ce1c1cabec1696779484d1386bf0c4efeecd5c4b2266fd5ec66317faa0e"
 
 [[files]]
 file = "config/yosbr/config/scoreboard-overhaul.json"
