@@ -6,11 +6,11 @@ hash = "002c2696d92b5c8cf956c11072baa58eaf9f6ade995c031ea635c6a1ee342ad1"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "e1a67e8c3163a51ad30c68b2bd270ec317789da71e7627f7e9c4f7633596ff92"
+hash = "24b80699d1a798b8f6c88b51a73aa60064f7823f3e521d028fb79da18f38c82c"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "07be1de26c490b03b164df03c851bdadcc687a81d79ce339e2696c3291519da9"
+hash = "61e3df21b23844d7c6aa623eda9ef73f9e11b33515f04ed3b804aeb91ba5f74b"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
