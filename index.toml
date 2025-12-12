@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "002c2696d92b5c8cf956c11072baa58eaf9f6ade995c031ea635c6a1ee342ad1"
-
-[[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "24b80699d1a798b8f6c88b51a73aa60064f7823f3e521d028fb79da18f38c82c"
+hash = "031d50eaa30322a48a842ffbb79a9913ae614d916ffcf0541967cc00abd09f72"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "61e3df21b23844d7c6aa623eda9ef73f9e11b33515f04ed3b804aeb91ba5f74b"
+hash = "e9d0a33b624abe35b426eaff04ecfac592ddae7f1809bdb9851ecd21f61c043d"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
@@ -81,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-highlighting.pw.toml"
-hash = "b5ef3d63813d67a02294a68ea582a29a3cee95c3bee68966abedb37d82d014d0"
+hash = "a4c4bebcbebd06e20a5db0e0acb296987e9af9435969fb669cfe175c0e8769cd"
 metafile = true
 
 [[files]]
@@ -176,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "58a487d9e3761d18f529cf141c873ea054e8f26c5e90601a3c8cf60fc723b22d"
+hash = "fade702bcfa866d3b4a3b1d030c31ba9764e98b1585a4a54366f4e4d8373e06c"
 metafile = true
 
 [[files]]
@@ -201,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "29d41095d30271247f296402d3e50d8ce060acf77808efcbe25de0ec84e76975"
+hash = "4d1964bc6102d600b87450947d8969ad36515267c52fc75833fbfd44391c3502"
 metafile = true
 
 [[files]]
@@ -266,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "4b1b29ebfbbd9f23eb90c8c9f5113fce64c3ca605c8cad3aedaa25be83a82a53"
+hash = "866baeb7e9917b92825ddbcf4d113648a6662b5214e078b29c327ff97d0e2774"
 metafile = true
 
 [[files]]
@@ -276,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f43c82e3cc6079291ddae81445c703905b6c670dd43f444e47f5cd817944e822"
+hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
 
 [[files]]
@@ -306,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "89ed99a0798a5e1300434359762c968536593279493f68b321a565fb1343f75c"
+hash = "aae508cf0e972b63ea9c9abc8bcbe58a8f6488ac69bdaad87e4454e1dc63f21f"
 metafile = true
 
 [[files]]
