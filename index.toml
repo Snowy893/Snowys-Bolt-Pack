@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "cd8f2b374c67a5a14ae4ce387a8a6bb9cee291bc389e793450df48d6813a4d05"
+hash = "a98edf018cdb924abde6f3f30e12fd488393bc658f7c9bab499d3deed2ee98d3"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "27838f04ada92d6133b32c9ee41150a9c429fad1713b9c9bf46b590ed24bc052"
+hash = "d2807d8b40119731c410270142aa2987241289fec15014063fde2fcce07898f9"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
@@ -378,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/toggle-sprint-display.pw.toml"
 hash = "e5b27816a403179f62c81fd2c66d0e2fa9312572a7c0e12da40717aac38e6140"
-metafile = true
-
-[[files]]
-file = "mods/toggle-toggle-sprint.pw.toml"
-hash = "3d0e8828e8f96c8c29820aeecb0eb77f3509d23f10fed61adaf658f041829691"
 metafile = true
 
 [[files]]
