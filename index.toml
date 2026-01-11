@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "c65b8d27e9ae48d460663ccb3d965d1b8ca433b4bc81831ab28916d12e3e1da2"
+hash = "cd8f2b374c67a5a14ae4ce387a8a6bb9cee291bc389e793450df48d6813a4d05"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "158b23f0a5d7139c732ff7343344c32a6a57ac611b066ba306cb08d62cf4fbe1"
+hash = "27838f04ada92d6133b32c9ee41150a9c429fad1713b9c9bf46b590ed24bc052"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
@@ -54,7 +54,7 @@ hash = "839f3e7347c514b0fb4b02fb86fd263943dea9d7a1e60e70fdb3011abf0a944a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f0fc5ff4acf16559a2cab9fb56c9d009c871d0af9df6768da22db8f1b57e9195"
+hash = "c5138aad03cfc9ce25578f0b929d0c617da620ebe2834da903baa840cacac220"
 
 [[files]]
 file = "config/yosbr/servers.dat"
