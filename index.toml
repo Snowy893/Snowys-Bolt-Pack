@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "faab832bbc33ca05f5727a37d68f9253c9498c0ecd129f1dedd0cccfcdf2f2e5"
+hash = "c65b8d27e9ae48d460663ccb3d965d1b8ca433b4bc81831ab28916d12e3e1da2"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "eff34ac2b53435c1403ab0e4895847d119d785647509275f86a52b1b3f054dc3"
+hash = "158b23f0a5d7139c732ff7343344c32a6a57ac611b066ba306cb08d62cf4fbe1"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
@@ -54,7 +54,7 @@ hash = "839f3e7347c514b0fb4b02fb86fd263943dea9d7a1e60e70fdb3011abf0a944a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6a7314c3a9edd00394c5f6609307c9a9fc14285b33d3589c8a84ffc73a57daf7"
+hash = "f0fc5ff4acf16559a2cab9fb56c9d009c871d0af9df6768da22db8f1b57e9195"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -403,6 +403,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/Bolt Resourcepack.zip"
 hash = "8cd332c0f2cf01969ecb01ea83bfde90cb479d6c9d688bc7de6e9ba0e6cced6c"
+
+[[files]]
+file = "resourcepacks/fancy-gear.pw.toml"
+hash = "9cdbda3a03aa2ade2786150a7fc08e4784bf9280c6ef25fbeb5bda50bcf0d3eb"
+metafile = true
 
 [[files]]
 file = "resourcepacks/sleek-ui.pw.toml"

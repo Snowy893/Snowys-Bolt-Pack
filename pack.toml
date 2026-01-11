@@ -1,13 +1,13 @@
 name = "Snowy's Bolt Pack"
 author = "Snowy893"
-version = "v1.3.3+1.20.1"
+version = "v1.4.0+1.20.1"
 description = "For playing the one-shot bow minigame!"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e95b44bb72c1675314bf2291924d16f63a7369ec3298eeeb9660ce8e6b32655d"
+hash = "1d6779a6388b180c469c7aca95c654e871726a5c24cd7e19221b44212eac9a2a"
 
 [versions]
 fabric = "0.18.2"
