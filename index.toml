@@ -34,7 +34,7 @@ hash = "d2e72b5f7489638cf59c5b10b0be9688e7e6ce0dfe6c3e02d68c2ce41ab0d19d"
 
 [[files]]
 file = "config/yosbr/config/notenoughanimations.json"
-hash = "ed7dfd2c0db1072caab00c05ed29b4e1d8075d2ce686eaa022a283c397940cbc"
+hash = "ce4e7a0c04282b63009e776b0286d03a56b041dd2b0462e232d960e492c154bb"
 
 [[files]]
 file = "config/yosbr/config/replaymod.json"

@@ -64,7 +64,7 @@
   "holdUpCameraOffset": 0.1,
   "holdUpOnlySelf": false,
   "holdUpItemOffset": 0.0,
-  "itemSwapAnimation": true,
+  "itemSwapAnimation": false,
   "tweakElytraAnimation": true,
   "petAnimation": true,
   "fallingAnimation": false,
