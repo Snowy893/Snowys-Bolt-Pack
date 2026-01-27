@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "a98edf018cdb924abde6f3f30e12fd488393bc658f7c9bab499d3deed2ee98d3"
+hash = "716201c275ab8a8cdb16413da41f0f7d1250e3f659f06ca1882b838379755105"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "d2807d8b40119731c410270142aa2987241289fec15014063fde2fcce07898f9"
+hash = "c2854b055e669d09e9ea66f8ae732c0663d6e5b7fc8ad912aef2cae3d8cb49a8"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
@@ -54,7 +54,7 @@ hash = "839f3e7347c514b0fb4b02fb86fd263943dea9d7a1e60e70fdb3011abf0a944a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c5138aad03cfc9ce25578f0b929d0c617da620ebe2834da903baa840cacac220"
+hash = "37ef29d3e90eecbfb978fad1a471fc3adc278f4e235e9fe32d8f64a762c1289e"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -402,6 +402,11 @@ hash = "8cd332c0f2cf01969ecb01ea83bfde90cb479d6c9d688bc7de6e9ba0e6cced6c"
 [[files]]
 file = "resourcepacks/fancy-gear.pw.toml"
 hash = "9cdbda3a03aa2ade2786150a7fc08e4784bf9280c6ef25fbeb5bda50bcf0d3eb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/legacy-console-click.pw.toml"
+hash = "f3757ef5cb962a7e9f10bcb11d4769f542c41f0834945fd1706972d285da9609"
 metafile = true
 
 [[files]]
