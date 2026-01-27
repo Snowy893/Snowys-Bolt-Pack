@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "716201c275ab8a8cdb16413da41f0f7d1250e3f659f06ca1882b838379755105"
+hash = "e2a4a9e25f854492d55be4084829455537d3af0b751c071d75a1a6d6b4d5b193"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "c2854b055e669d09e9ea66f8ae732c0663d6e5b7fc8ad912aef2cae3d8cb49a8"
+hash = "2788ae62eecdfb549117a802bf1d12c13a7e3fcc273a013e9f1ddadb5bfe9afd"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
@@ -54,7 +54,7 @@ hash = "839f3e7347c514b0fb4b02fb86fd263943dea9d7a1e60e70fdb3011abf0a944a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "37ef29d3e90eecbfb978fad1a471fc3adc278f4e235e9fe32d8f64a762c1289e"
+hash = "c5138aad03cfc9ce25578f0b929d0c617da620ebe2834da903baa840cacac220"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "d2d5a9c835661b4f6f718fd057f03594b87aa49d1bcd9711af8553e51ea4a6fb"
+hash = "33500c6577b5a83808da55dac95cbe731bc771be2db59e4754d24a86cc15e6a8"
 metafile = true
 
 [[files]]
@@ -405,16 +405,11 @@ hash = "9cdbda3a03aa2ade2786150a7fc08e4784bf9280c6ef25fbeb5bda50bcf0d3eb"
 metafile = true
 
 [[files]]
-file = "resourcepacks/legacy-console-click.pw.toml"
-hash = "f3757ef5cb962a7e9f10bcb11d4769f542c41f0834945fd1706972d285da9609"
-metafile = true
-
-[[files]]
 file = "resourcepacks/sleek-ui.pw.toml"
 hash = "8cde0f16db9e86dfd9a47cb7afc4ebc0081f38588ac121711f4d0cb9905b24dd"
 metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "3e1dabbdda0ccd24e816482cdecf0531ebf70ee775d98457d309cab831091a76"
+hash = "7e93335082f16c7e258e7c1cffada40164c38ca846e9f781ac7308e2fd018785"
 metafile = true

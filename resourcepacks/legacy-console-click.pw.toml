@@ -1,8 +1,0 @@
-name = "Legacy Console Click"
-filename = "legacy-console-click.zip"
-side = "both"
-
-[download]
-url = "https://www.planetminecraft.com/texture-pack/legacy-console-click-sound/download/file/14750290/"
-hash-format = "sha256"
-hash = "88fb632a0b7217ac0ace8ffb5e243097981fec9e83d7edeecf2e482df9e84e88"
