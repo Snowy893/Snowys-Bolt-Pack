@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "e2a4a9e25f854492d55be4084829455537d3af0b751c071d75a1a6d6b4d5b193"
+hash = "597237c5f038d77d85feb1f7c9477afe641507891734ef8c6276578badb99a7c"
 
 [[files]]
 file = "config/early-loading-bar.json"
@@ -54,7 +54,7 @@ hash = "839f3e7347c514b0fb4b02fb86fd263943dea9d7a1e60e70fdb3011abf0a944a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c5138aad03cfc9ce25578f0b929d0c617da620ebe2834da903baa840cacac220"
+hash = "520259865748b09d370f2a5719ab4117121c12748c3817c30b52ea1a0a5dbc89"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -218,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "737e71082015f1ee09103f611adfeff6700f6a0ec7331c3b3000ada540a67444"
-metafile = true
-
-[[files]]
-file = "mods/highlight.pw.toml"
-hash = "58ace6ddc01192bd96668e2a833568083f34b0808645e056c0f1e0716f63abe5"
 metafile = true
 
 [[files]]

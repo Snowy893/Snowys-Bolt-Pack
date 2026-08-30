@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","minecraft:highlight_extended","scoreboard-overhaul:round","file/Bolt Resourcepack.zip","file/Sleek UI 1.19.3 1.0.8 (Dark).zip","file/FancyGear_1.13-1.21.1.zip"]
-incompatibleResourcePacks:["file/Sleek UI 1.19.3 1.0.8 (Dark).zip","file/FancyGear_1.13-1.21.1.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","minecraft:highlight_extended","scoreboard-overhaul:round","file/Bolt Resourcepack.zip","file/Sleek UI 1.19.4 1.0.9 (Dark).zip","file/FancyGear_1.13-1.21.1.zip"]
+incompatibleResourcePacks:["file/Sleek UI 1.19.4 1.0.9 (Dark).zip","file/FancyGear_1.13-1.21.1.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
