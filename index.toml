@@ -42,7 +42,7 @@ hash = "ce0a0ce1c1cabec1696779484d1386bf0c4efeecd5c4b2266fd5ec66317faa0e"
 
 [[files]]
 file = "config/yosbr/config/scoreboard-overhaul.json"
-hash = "aac4f2225b8dec031d07acb5c2a7dda26b5df8b594db7231bbada81454fdc585"
+hash = "316454739f4f550bba9ec3354cb545f424b99db477d66558a71cf6d32ba65c4b"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
