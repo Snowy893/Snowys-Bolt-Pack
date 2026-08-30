@@ -1,13 +1,13 @@
 name = "RailOptimization"
-filename = "RailOptimization-1.20(.1)-1.0.jar"
+filename = "railoptimization-fabric-mc1.20.1-1.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/QSvN5pBU/versions/lkFXpXNU/RailOptimization-1.20%28.1%29-1.0.jar"
+url = "https://cdn.modrinth.com/data/QSvN5pBU/versions/eYdnLaiw/railoptimization-fabric-mc1.20.1-1.6.jar"
 hash-format = "sha512"
-hash = "eeb1a3c1ca4d1f4851eccc683b3066f7a6df2289e375ccd4355f359861296441089dd3b7fecf2797bb6c4cc02f2facc4bda576a1defaed0344830f09c1e973b3"
+hash = "9b8d1943273f3d240da23d4718b04f0858ecb05f2678e33e21a071d894d9f3cbae4554f1d021e9cafbef4328a71035ea3f909a644ce164dfe642f2d18c482049"
 
 [update]
 [update.modrinth]
 mod-id = "QSvN5pBU"
-version = "lkFXpXNU"
+version = "eYdnLaiw"

@@ -1,13 +1,13 @@
 name = "Sleek UI"
-filename = "Sleek UI 1.19.3 1.0.8 (Dark).zip"
+filename = "Sleek UI 1.19.4 1.0.9 (Dark).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/x53V5CaE/versions/HP4hLn6W/Sleek%20UI%201.19.3%201.0.8%20%28Dark%29.zip"
+url = "https://cdn.modrinth.com/data/x53V5CaE/versions/Vo2wI1k7/Sleek%20UI%201.19.4%201.0.9%20%28Dark%29.zip"
 hash-format = "sha512"
-hash = "cf9b1f1574c77392a65e721f3792f9699433fdc09ad10cd29343856cfcf312b52770adb9ad848de34a8f91fee364bd5bb61a3311b72dd756b86804a4f527a632"
+hash = "010ca3c4a7c854674b5b7491987cec1b924316f697d80d92ed63da98124bc3c2b9df34a64a83b7887ae48bda271f79a993795649e34e924f3e209ece42a72b4e"
 
 [update]
 [update.modrinth]
 mod-id = "x53V5CaE"
-version = "HP4hLn6W"
+version = "Vo2wI1k7"
