@@ -3,7 +3,7 @@
     "isAlwaysVisible": false,
     "showOnUpdate": true,
     "showDuration": 8,
-    "showVolume": 1.0,
+    "showVolume": 0.0,
     "backgroundColor": "#80000000",
     "textShadow": true,
     "frameColorBehavior": "Auto",
