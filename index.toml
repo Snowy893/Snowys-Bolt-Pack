@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "bd327cbdac3358cda79d9379b646e4c07a8b7f9e682fe000ff87752e2d76681a"
+hash = "5a2b6d0c8772dec64d9007055baf2c820ff163329407d30f546f58e8c9acb482"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "516401df3cfffff505eaa7e2cc4f8d62e140114ba4fb0f8ea4d8c87d5a17ace0"
+hash = "e254f16c9e37d2b32e1826dd4120050f0d3ad86d161014ea6656ba221bfdd64f"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
@@ -98,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
-metafile = true
-
-[[files]]
-file = "mods/cloud_tweaks.pw.toml"
-hash = "ca0e6407b27bf603cf2ba15a4e27d8ea0a603b887f0247da5105826f3aa9b5b6"
 metafile = true
 
 [[files]]
@@ -268,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
+metafile = true
+
+[[files]]
+file = "mods/modlistmemory.pw.toml"
+hash = "70082ffddb3505e4290f2a5c9ca81ee832ca76c4be101381ba3d4841c33c3d95"
 metafile = true
 
 [[files]]
