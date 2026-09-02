@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "597237c5f038d77d85feb1f7c9477afe641507891734ef8c6276578badb99a7c"
+hash = "bd327cbdac3358cda79d9379b646e4c07a8b7f9e682fe000ff87752e2d76681a"
 
 [[files]]
 file = "config/early-loading-bar.json"
-hash = "2788ae62eecdfb549117a802bf1d12c13a7e3fcc273a013e9f1ddadb5bfe9afd"
+hash = "516401df3cfffff505eaa7e2cc4f8d62e140114ba4fb0f8ea4d8c87d5a17ace0"
 
 [[files]]
 file = "config/yosbr/config/crosshairaddons.json"
@@ -71,11 +71,6 @@ hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "bbc29250b58d89e67bfbcbe61c2d5725becfe2486b57d6a1f2114311958ef49c"
-metafile = true
-
-[[files]]
 file = "mods/better-highlighting.pw.toml"
 hash = "a4c4bebcbebd06e20a5db0e0acb296987e9af9435969fb669cfe175c0e8769cd"
 metafile = true
@@ -103,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/cloud_tweaks.pw.toml"
+hash = "ca0e6407b27bf603cf2ba15a4e27d8ea0a603b887f0247da5105826f3aa9b5b6"
 metafile = true
 
 [[files]]
